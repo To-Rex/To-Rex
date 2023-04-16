@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yorvoration&label=Profile%20views&color=0e75b6&style=flat" alt="yorvoration" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yorvoration" alt="yorvoration" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=To-Rex" alt="To-Rex" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/yorvoration" target="blank"><img src="https://img.shields.io/twitter/follow/yorvoration?logo=twitter&style=for-the-badge" alt="yorvoration" /></a> </p>
+<p align="left"> <a href="https://twitter.com/yorvoration" target="blank"><img src="https://img.shields.io/twitter/follow/To-Rex?logo=twitter&style=for-the-badge" alt="To-Rex" /></a> </p>
 
 - 🌱 I’m currently learning **Spring Boot, Flutter,Kotlin,Java Java FX and Golang**
 
 - 💬 Ask me about **Java-Kotlin Android,Java FX,Flutter**
 
-- 📫 How to reach me **dev.dilshodjon@gmail.com**
+- 📫 How to reach me **torex.amaki@gmail.com**
 
 - ⚡ Fun fact **Agar kimda-kim bizning qudratimizga shubxa qilsa, Githubimizga boqsin.**
 
@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dilshodjon-haydarov-6715a6246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dilshodjon-haydarov-6715a6246/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18670595/dilshodjon-haydarov?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18670595/dilshodjon-haydarov?tab=profile" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/yorvoration/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/yorvoration/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/yorvoration_programmer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yorvoration_programmer/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/torex.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/torex.dev/" height="30" width="40" /></a>
 <a href="https://hashnode.com/https://yorvoration.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://yorvoration.hashnode.dev/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/c/https:/www.youtube.com/channel/ucycpdwq7ksfwhj8_5dp-awg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/https:/www.youtube.com/channel/ucycpdwq7ksfwhj8_5dp-awg" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.com/channels/1063959450613977290/1063959451603849228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/1063959450613977290/1063959451603849228" height="30" width="40" /></a>
